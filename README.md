@@ -1,1 +1,5 @@
-eyAiaWQiOiAiNzU4MTE4NzA3MDM3MjA4NjU3IiwgInRpbWVzdGFtcCIsICIxNjE3MjEzMzIwNjU1IiB9
+- 👋 Hi, I’m @Maniust
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning how to exploit
+- 📫 To talk to me join my discord and send me DM
+- Discord: https://discord.gg/VYdrChWGRc
